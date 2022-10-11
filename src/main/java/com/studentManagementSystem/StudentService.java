@@ -3,7 +3,7 @@ package  com.studentManagementSystem;
 import java.util.List;
 
 import org.springframework.stereotype.Component;
-import com.studentManagementSystem.*;
+
 
 @Component
 public interface StudentService {
